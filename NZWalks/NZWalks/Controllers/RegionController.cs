@@ -104,7 +104,7 @@ namespace NZWalks.Controllers
 
         #region HttpPost AddNewRegion
         [HttpPost]
-        public async Task<IActionResult> AddRegion([FromBody] AddNewRegionDto addNewRegionDto)
+        public async Task<IActionResult> AddRegion([FromBody] AddRegionRequestDto addNewRegionDto)
         {
             //map dto to domain model
             //var region = new Region
@@ -138,7 +138,7 @@ namespace NZWalks.Controllers
         #region HttpPut UpdateRegion
         [HttpPut]
         [Route("{id}")]
-        public async Task<IActionResult> UpdateRegion([FromRoute] Guid id, [FromBody] UpdateRegionDto updateRegionDto)
+        public async Task<IActionResult> UpdateRegion([FromRoute] Guid id, [FromBody] UpdateRegionRequestDto updateRegionDto)
         {
             //get data from database and check if it exists
             //var regionById = await dbContext.Regions.FirstOrDefaultAsync(x => x.Id == id);
