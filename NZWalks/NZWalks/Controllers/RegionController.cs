@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using NZWalks.CustomActionFilters;
 using NZWalks.Data;
 using NZWalks.Mappings;
 using NZWalks.Models.Domain;
@@ -82,6 +83,7 @@ namespace NZWalks.Controllers
 
             //get data from database using domain model
             //var regionById = await dbContext.Regions.FirstOrDefaultAsync(x => x.Id == id);
+
             var regionById = await regionRepository.GetRegionByIdAsync(id);
             if (regionById == null)
             {
@@ -104,6 +106,7 @@ namespace NZWalks.Controllers
 
         #region HttpPost AddNewRegion
         [HttpPost]
+        [ValidateModelAttribute]
         public async Task<IActionResult> AddRegion([FromBody] AddRegionRequestDto addNewRegionDto)
         {
             //map dto to domain model
@@ -113,6 +116,7 @@ namespace NZWalks.Controllers
             //    Name = addNewRegionDto.Name,
             //    RegionImageUrl = addNewRegionDto.RegionImageUrl
             //};
+           
             var region = mapper.Map<Region>(addNewRegionDto);
 
             //save the data to database
@@ -138,6 +142,7 @@ namespace NZWalks.Controllers
         #region HttpPut UpdateRegion
         [HttpPut]
         [Route("{id}")]
+        [ValidateModelAttribute]
         public async Task<IActionResult> UpdateRegion([FromRoute] Guid id, [FromBody] UpdateRegionRequestDto updateRegionDto)
         {
             //get data from database and check if it exists

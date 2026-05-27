@@ -298,15 +298,21 @@
   "components": {
     "schemas": {
       "AddRegionRequestDto": {
+        "required": [
+          "code",
+          "name"
+        ],
         "type": "object",
         "properties": {
           "code": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 3,
+            "minLength": 3,
+            "type": "string"
           },
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 255,
+            "minLength": 1,
+            "type": "string"
           },
           "regionImageUrl": {
             "type": "string",
@@ -316,19 +322,28 @@
         "additionalProperties": false
       },
       "AddWalkRequestDto": {
+        "required": [
+          "description",
+          "lengthInKm",
+          "name"
+        ],
         "type": "object",
         "properties": {
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 255,
+            "minLength": 1,
+            "type": "string"
           },
           "description": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 255,
+            "minLength": 1,
+            "type": "string"
           },
           "lengthInKm": {
-            "type": "string",
-            "nullable": true
+            "maximum": 200,
+            "minimum": 1,
+            "minLength": 1,
+            "type": "string"
           },
           "walkImageUrl": {
             "type": "string",
@@ -346,15 +361,21 @@
         "additionalProperties": false
       },
       "UpdateRegionRequestDto": {
+        "required": [
+          "code",
+          "name"
+        ],
         "type": "object",
         "properties": {
           "code": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 3,
+            "minLength": 3,
+            "type": "string"
           },
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 255,
+            "minLength": 1,
+            "type": "string"
           },
           "regionImageUrl": {
             "type": "string",
@@ -364,19 +385,28 @@
         "additionalProperties": false
       },
       "UpdateWalkRequestDto": {
+        "required": [
+          "description",
+          "lengthInKm",
+          "name"
+        ],
         "type": "object",
         "properties": {
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 255,
+            "minLength": 1,
+            "type": "string"
           },
           "description": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 255,
+            "minLength": 1,
+            "type": "string"
           },
           "lengthInKm": {
-            "type": "string",
-            "nullable": true
+            "maximum": 200,
+            "minimum": 1,
+            "minLength": 1,
+            "type": "string"
           },
           "walkImageUrl": {
             "type": "string",
