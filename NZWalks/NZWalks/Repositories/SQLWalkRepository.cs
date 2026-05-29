@@ -30,10 +30,39 @@ namespace NZWalks.Repositories
             return walkDomainModel;
         }
 
-        public async Task<List<Walk>> GetAllWalksAsync()
+        public async Task<List<Walk>> GetAllWalksAsync(string? filterOn = null, string? filterQuery = null, 
+            string? sortBy = null, bool? isAscending = true, int? pageNumber = 1, int? pageSize = 1000)
         {
-     
-            return await dbContext.Walks.Include("Difficulty").Include("Region").ToListAsync();
+            //return await dbContext.Walks.Include("Difficulty").Include("Region").ToListAsync();
+            var walks = dbContext.Walks.Include("Difficulty").Include("Region").AsQueryable();
+            //filtering
+            if (!string.IsNullOrWhiteSpace(filterOn) && !string.IsNullOrWhiteSpace(filterQuery))
+            {
+                if(filterOn.Equals("Name", StringComparison.OrdinalIgnoreCase))
+                {
+                    walks = walks.Where(x => x.Name.Contains(filterQuery));
+                }
+            }
+            //sorting
+            if (!string.IsNullOrWhiteSpace(sortBy))
+            {
+                if(sortBy.Equals("Name", StringComparison.OrdinalIgnoreCase))
+                {
+                    walks = isAscending == true ? walks.OrderBy(x => x.Name) : walks.OrderByDescending(x => x.Name);
+                }
+                else if(sortBy.Equals("Length", StringComparison.OrdinalIgnoreCase))
+                {
+                    walks = isAscending == true ? walks.OrderBy(x => x.LengthInKm) : walks.OrderByDescending(x => x.LengthInKm);
+                }
+            }
+            //pagination
+            if(pageNumber != null && pageSize != null)
+            {
+                var skipResults = (pageNumber.Value - 1) * pageSize.Value;
+                return await walks.Skip(skipResults).Take(pageSize.Value).ToListAsync();
+            }
+
+            return await walks.ToListAsync();
         }
 
         public async Task<Walk> GetWalkByIdAsync(Guid id)

@@ -7,60 +7,12 @@
       "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\models\\dto\\updatewalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\models\\dto\\updatewalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|d:\\asp.net core\\projects learning\\nzwalks\\nzwalks\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D867D4E6-0CFD-4F70-A1CA-EE6B7E6244FD}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,19 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ValidateModelAttribute.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\CustomActionFilters\\ValidateModelAttribute.cs",
-              "RelativeDocumentMoniker": "NZWalks\\CustomActionFilters\\ValidateModelAttribute.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\CustomActionFilters\\ValidateModelAttribute.cs",
-              "RelativeToolTip": "NZWalks\\CustomActionFilters\\ValidateModelAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SQLWalkRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Repositories\\SQLWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Repositories\\SQLWalkRepository.cs",
+              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Repositories\\SQLWalkRepository.cs",
+              "RelativeToolTip": "NZWalks\\Repositories\\SQLWalkRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwD0AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T16:57:48.879Z",
+              "WhenOpened": "2026-05-29T16:36:24.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Repositories\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Repositories\\IWalkRepository.cs",
+              "RelativeToolTip": "NZWalks\\Repositories\\IWalkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:36:02.618Z",
               "EditorCaption": ""
             },
             {
@@ -93,171 +58,10 @@
               "RelativeDocumentMoniker": "NZWalks\\Controllers\\WalkController.cs",
               "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Controllers\\WalkController.cs",
               "RelativeToolTip": "NZWalks\\Controllers\\WalkController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAuwEsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T16:23:55.262Z",
+              "WhenOpened": "2026-05-29T16:34:22.443Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegionController.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Controllers\\RegionController.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Controllers\\RegionController.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Controllers\\RegionController.cs",
-              "RelativeToolTip": "NZWalks\\Controllers\\RegionController.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAkwJAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T16:42:48.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddWalkRequestDto.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\DTO\\AddWalkRequestDto.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Models\\DTO\\AddWalkRequestDto.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\DTO\\AddWalkRequestDto.cs",
-              "RelativeToolTip": "NZWalks\\Models\\DTO\\AddWalkRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T16:27:01.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddRegionRequestDto.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\DTO\\AddRegionRequestDto.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Models\\DTO\\AddRegionRequestDto.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\DTO\\AddRegionRequestDto.cs",
-              "RelativeToolTip": "NZWalks\\Models\\DTO\\AddRegionRequestDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T16:46:25.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateRegionRequestDto.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\DTO\\UpdateRegionRequestDto.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Models\\DTO\\UpdateRegionRequestDto.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\DTO\\UpdateRegionRequestDto.cs",
-              "RelativeToolTip": "NZWalks\\Models\\DTO\\UpdateRegionRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T17:14:22.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateWalkRequestDto.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "RelativeToolTip": "NZWalks\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T17:08:38.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IWalkRepository.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Repositories\\IWalkRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Repositories\\IWalkRepository.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Repositories\\IWalkRepository.cs",
-              "RelativeToolTip": "NZWalks\\Repositories\\IWalkRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T16:35:07.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SQLWalkRepository.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Repositories\\SQLWalkRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Repositories\\SQLWalkRepository.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Repositories\\SQLWalkRepository.cs",
-              "RelativeToolTip": "NZWalks\\Repositories\\SQLWalkRepository.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAqwFQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T16:36:11.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Program.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Program.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Program.cs",
-              "RelativeToolTip": "NZWalks\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAApwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T16:39:18.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Walk.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\Domain\\Walk.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Models\\Domain\\Walk.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\Domain\\Walk.cs",
-              "RelativeToolTip": "NZWalks\\Models\\Domain\\Walk.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T16:27:37.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Mappings\\AutoMapperProfiles.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeToolTip": "NZWalks\\Mappings\\AutoMapperProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T16:28:27.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SQLRegionRepository.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Repositories\\SQLRegionRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Repositories\\SQLRegionRepository.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Repositories\\SQLRegionRepository.cs",
-              "RelativeToolTip": "NZWalks\\Repositories\\SQLRegionRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T17:15:44.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "WalkDto.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\DTO\\WalkDto.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Models\\DTO\\WalkDto.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\DTO\\WalkDto.cs",
-              "RelativeToolTip": "NZWalks\\Models\\DTO\\WalkDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAxwAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T16:46:32.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegionDto.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\DTO\\RegionDto.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Models\\DTO\\RegionDto.cs",
-              "ToolTip": "D:\\ASP.NET Core\\Projects Learning\\NZWalks\\NZWalks\\Models\\DTO\\RegionDto.cs",
-              "RelativeToolTip": "NZWalks\\Models\\DTO\\RegionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T16:34:54.005Z"
             }
           ]
         }
